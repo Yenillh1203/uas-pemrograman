@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Tourist Attractions in Lombok</string>
+    <string name="about_us">About Us</string>
+    <string name="galery">Tourist Attractions in Lombok</string>
+    // Layout
+    <string name="pilih_gambar">Choose to view pictures</string>
+    <string name="daftar_ras_judul">List of Tourist Attractions</string>
+    <string name="go_back">Back</string>
+    <string name="pantai">Beach</string>
+    <string name="bukit">Hill</string>
+    <string name="airterjun"> Waterfall</string>
+    <string name="pantai_list_title">Beach List</string>
+    <string name="bukit_list_title">Hill List</string>
+    <string name="airterjun_list_title">Waterfall List</string>
+    // Data pantai
+    <string name="pink_pantai">Pink Beach</string>
+    <string name="pink_asal">Sourt Beach</string>
+    <string name="pink_deskripsi">A beautiful stretch of pink sandy beach with a dazzling mix of green trees</string>
+    <string name="kurakura_pantai">Turtle Beach</string>
+    <string name="kurakura_asal">Ekas, Jerowaru</string>
+    <string name="kurakura_deskripsi">The iconic beach with turtle-like stones is still very original</string>
+    <string name="penyisok_pantai">Penyisok Beach</string>
+    <string name="penyisok_asal">Jerowaru</string>
+    <string name="penyisok_deskripsi">A beach with high cliffs with stunning big waves </string>
+    <string name="semeti_pantai">Semeti Beach</string>
+    <string name="semeti_asal">Lombok Tengah</string>
+    <string name="semeti_deskripsi">Distinctive beach with iconic rocks</string>
+    // Data bukit
+    <string name="nanggi_bukit">Nanggi Hill</string>
+    <string name="nanggi_asal">Sembalun Lawang</string>
+    <string name="nanggi_deskripsi">A hill that has long been a prima donna with a dazzling stretch of green grass</string>
+    <string name="palljepang_bukit">Pall Jepang Hill</string>
+    <string name="palljepang_asal" translatable="false">Sepit Suela, Lotim</string>
+    <string name="palljepang_deskripsi">A hill that is like a land above the clouds</string>
+    <string name="anakdara_bukit">Anak Dara Hill</string>
+    <string name="anakdara_asal">Sembalun, Lombok Timur</string>
+    <string name="anakdara_deskripsi">The hill in the middle of Sembalun Village</string>
+    <string name="sempana_bukit">Sempana Hill</string>
+    <string name="sempana_asal">Sembalun Bumbung, Lombok Timur</string>
+    <string name="sempana_deskripsi">The hill is quite high and is included in the Seven Summits of Sembalun</string>
+    // Data air terjun
+    <string name="skeper_airterjun">Skeper Waterfall</string>
+    <string name="skeper_asal">Santong, KLU</string>
+    <string name="skeper_deskripsi">Is the highest waterfall in Lombok</string>
+    <string name="benangkelambu_airteerjun">Benang Kelambu Waterfall</string>
+    <string name="benangkelambu_asal">Batu Kliang, Loteng</string>
+    <string name="benangkelambu_deskripsi">This waterfall is similar to a curtain which in the Sasak language is called a mosquito net</string>
+    <string name="tiukelep_airterjun">Tiu Kelep Waterfall</string>
+    <string name="tiukelep_asal">Senaru,Lombok Utara</string>
+    <string name="tiukelep_deskripsi">This waterfall which is under the foot of Mount Rinjani offers natural beauty that is still beautiful</string>
+    <string name="jerukmanis_airterjun">Jeruk Manis Waterfall</string>
+    <string name="jerukmanis_asal">Tete Batu, Lotim</string>
+    <string name="jerukmanis_deskripsi">The waterfall in the middle of the forest offers a view that is still very beautiful and cool</string>
+</resources>

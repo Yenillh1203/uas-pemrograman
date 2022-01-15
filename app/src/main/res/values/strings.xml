@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Tempat Wisata di Lombok</string>
+    <string name="about_us">Tentang</string>
+    <string name="galery">Tempat Wisata di Lombok</string>
+    // Layout
+    <string name="pilih_gambar">Pilih untuk melihat gambar</string>
+    <string name="daftar_ras_judul">Daftar Tempat Wisata</string>
+    <string name="go_back">Kembali</string>
+    <string name="pantai">Pantai</string>
+    <string name="bukit">Bukit</string>
+    <string name="airterjun">Air Terjun</string>
+    <string name="pantai_list_title">Daftar Pantai</string>
+    <string name="bukit_list_title">Daftar Bukit</string>
+    <string name="airterjun_list_title">Daftar Air Terjun</string>
+    // Data pantai
+    <string name="pink_pantai">Pantai Pink</string>
+    <string name="pink_asal">Pantai Selatan</string>
+    <string name="pink_deskripsi">Hamparan pantai berpasir pink yang indah dengan perpaduan pepohonan hijau yang mepesona</string>
+    <string name="kurakura_pantai">Pantai Kura_kura</string>
+    <string name="kurakura_asal">Ekas, Jerowaru</string>
+    <string name="kurakura_deskripsi">Pantai yang iconic dengan batu mirip kura-kura masih sangat asli</string>
+    <string name="penyisok_pantai">Pantai Penyisok</string>
+    <string name="penyisok_asal">Jerowaru</string>
+    <string name="penyisok_deskripsi">Pantai dengan tebing tinggi dengan ombak besar yang mempesona</string>
+    <string name="semeti_pantai">Pantai Semeti</string>
+    <string name="semeti_asal">Lombok Tengah</string>
+    <string name="semeti_deskripsi">Pantai yang khas dengan bebatuan yang iconik</string>
+    // Data bukit
+    <string name="nanggi_bukit">Bukit Nanggi</string>
+    <string name="nanggi_asal">Sembalun Lawang</string>
+    <string name="nanggi_deskripsi">Bukit yang sudah lama menjadi primadona dengan hamparan rumput hijau yang mempesona</string>
+    <string name="palljepang_bukit">Bukit Pall Jepang</string>
+    <string name="palljepang_asal" translatable="false">Sepit Suela, Lotim</string>
+    <string name="palljepang_deskripsi">Bukit yang berada seperti negeri di atas awan</string>
+    <string name="anakdara_bukit">Bukit Anak Dara</string>
+    <string name="anakdara_asal">Sembalun, Lombok Timur</string>
+    <string name="anakdara_deskripsi">Bukit yang berada di tengah-tengah Desa sembalun </string>
+    <string name="sempana_bukit">Bukit Sempana</string>
+    <string name="sempana_asal">Sembalun Bumbung, Lombok Timur</string>
+    <string name="sempana_deskripsi">Bukit yang cukup tinggi dan termasuk dalam seven summit sembalun</string>
+    // Data air terjun
+    <string name="skeper_airterjun">Air Terjun Skeper</string>
+    <string name="skeper_asal">Santong, KLU</string>
+    <string name="skeper_deskripsi">Merupakan air terjun tertinggi di lombok</string>
+    <string name="benangkelambu_airteerjun">Air Terjun Benang Kelambu</string>
+    <string name="benangkelambu_asal">Batu Kliang, Loteng</string>
+    <string name="benangkelambu_deskripsi">Air terjun ini mirip seperti gorden yang dalam bahasa sasak disebut kelambu</string>
+    <string name="tiukelep_airterjun">Air Terjun Tiu Kelep</string>
+    <string name="tiukelep_asal">Senaru,Lombok Utara</string>
+    <string name="tiukelep_deskripsi">Air terjun yang berada di bawah kaki gunung rinjani inii menawarkan ke indahan alam yang masih asri</string>
+    <string name="jerukmanis_airterjun">Air Terjun Jeruk Manis</string>
+    <string name="jerukmanis_asal">Tete Batu, Lotim</string>
+    <string name="jerukmanis_deskripsi">Air terjun yang berada di tengah hutan menawarkan pemandangan yang masih sangat asri dan sejuk</string>
+</resources>
